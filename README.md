@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @nerd-10
-- 👀 I’m interested in ...football
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ...football and game dev
+- 🌱 I’m currently learning ...python and c
+
 
 <!---
 nerd-10/nerd-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
