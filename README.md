@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nerd-10
 - 👀 I’m interested in ...football and game dev
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python|html|CSS
 
 
 <!---
