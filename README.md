@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @nerd-10
-- 👀 I’m interested in ...football and game dev
-- 🌱 I’m currently learning ...python|html|CSS
+# Hi, I'm Nilansh
 
+Python Developer (Entry-Level) focused on backend development with Flask.
 
-<!---
-nerd-10/nerd-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently building real-world web applications and improving my frontend skills (HTML, CSS, JavaScript).
+
+## Tech Stack
+- Python
+- Flask
+- HTML, CSS
+- JavaScript (learning)
+- Git & GitHub
+- UI/UX Design (Figma)
+
+## Current Focus
+- Building a Badminton Tracker Web App (Flask)
+- Improving JavaScript (DOM & Events)
+- Writing clean and structured code
+
+##  Goals
+- Get an internship as a Python / Backend Developer
+- Build scalable web applications
