@@ -1,8 +1,7 @@
 # Hi, I'm Nilansh
 
-Python Developer (Entry-Level) focused on backend development with Flask.
+Python Developer (Entry-Level) focused on backend development.
 
-Currently building real-world web applications and improving my frontend skills (HTML, CSS, JavaScript).
 
 ## Tech Stack
 - Python
