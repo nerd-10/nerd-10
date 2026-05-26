@@ -6,9 +6,7 @@ Currently building real-world web applications and improving my frontend skills 
 
 ## Tech Stack
 - Python
-- Flask
-- HTML, CSS
-- JavaScript (learning)
+- Flask/FastAPI
 - Git & GitHub
 - UI/UX Design (Figma)
 
