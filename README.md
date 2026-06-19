@@ -12,7 +12,7 @@ Backend Developer focused on building web applications with Python.
 
 ## Currently Building
 
-* Indie Project Management Platform
+* Indie Project Management Platform (Next in line)
 
 ## Current Focus
 
